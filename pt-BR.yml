@@ -3446,7 +3446,7 @@ pt-BR:
       resolution: "Contacte o criador e informe-o."
     titles: 
       delete: "Excluir Arquivo de Projeto Integrador?"
-  collaborations_5c56c15f: Arquivos de Projeto Integrador
+  collaborations_5c56c15f: "Arquivos de Projeto Integrador"
   collaborations_are_web_based_tools_to_work_collabo_6e9f7b3f: "Arquivos de Projeto Integrador são ferramentas web para trabalhar de forma colaborativa em atividades como tomar notas ou papéis agrupados. Comece clicando no botão \"+ Arquivo de Projeto Integrador\"."
   collaborations_are_web_based_tools_to_work_collabo_8ae6dd38: "Arquivo de Projeto Integrador são ferramentas web para trabalhar de forma colaborativa em atividades como tomar notas ou papéis agrupados. Comece adicionando um aplicativo de Arquivo de Projeto Integrador."
   collaborations_tutorial_tray_9219d9d: "Bandeja de Tutoriais de Arquivos de Projeto Integrador"
@@ -4439,7 +4439,7 @@ pt-BR:
   correct_answer: "Essa era a resposta correta."
   correct_answer_5a6a57d1: "Resposta Correta"
   correct_answers_are_available_until_date_df01cc5f: "As respostas corretas estão disponíveis até %{date}."
-  correct_answers_are_hidden_5d0a0009: "As respostas corretas estão ocultas."
+  correct_answers_are_hidden_5d0a0009: "O gabarito com as respostas corretas está oculto."
   correct_answers_are_no_longer_available_c67dfc28: "As respostas corretas não estão mais disponíveis."
   correct_answers_will_be_available_from_to_5762e8c6: "As respostas corretas estarão disponíveis de %{from} a %{to}."
   correct_answers_will_be_available_on_date_48137: "As respostas corretas estarão disponíveis em %{date}."
@@ -5216,7 +5216,7 @@ pt-BR:
       headings: 
         current_users: "Usuários atuais"
       help: 
-        reset_course_content: "Redefinir o conteúdo do curso excluirá permanentemente todas as atividades, fóruns, testes, módulos, protocolos, páginas, arquivos, resultados de aprendizado, bancos de perguntas, colaborações, conferências ou qualquer outro conteúdo associado.  Esta ação é irreversível e os dados *não podem* ser recuperados. Tem certeza de que deseja prosseguir?"
+        reset_course_content: "Redefinir o conteúdo do curso excluirá permanentemente todas as atividades, fóruns, testes, módulos, protocolos, páginas, arquivos, resultados de aprendizado, bancos de perguntas, Arquivos de Projeto Integrador, conferências ou qualquer outro conteúdo associado.  Esta ação é irreversível e os dados *não podem* ser recuperados. Tem certeza de que deseja prosseguir?"
       links: 
         calendar: "Calendário do curso"
         conclude: "Terminar este curso"
@@ -5392,7 +5392,7 @@ pt-BR:
     announcements: Avisos
     assignments: Atividades
     calendar_events: "Eventos do calendário"
-    collaborations: Arquivos de Projeto Integrador
+    collaborations: "Arquivos de Projeto Integrador"
     conferences: Conferências
     confirmation: Confirmação
     copy_course: "Copiar curso"
@@ -7345,9 +7345,9 @@ pt-BR:
   google_apps_domain_eddc8dee: "Domínio do Google Apps"
   google_docs_40374e65: "Google Docs"
   google_docs_domain_restriction_description: |-
-      A restrição de domínio do Google Docs permite que os envios e as colaborações
+      A restrição de domínio do Google Docs permite que os envios e os Arquivos de Projeto Integrador
       do Google Docs sejam restringidas a um único domínio. As tentativas dos alunos em enviar atividades ou
-      participar de colaborações em um domínio não aprovado receberão uma mensagem de erro notificando-os
+      participar de Arquivos de Projeto Integrador em um domínio não aprovado receberão uma mensagem de erro notificando-os
       que eles precisarão atualizar sua integração Google Docs.
   google_docs_preview_9f41b23c: "Visualização do Google Docs"
   google_drive_7cb003c9: "Google Drive"
@@ -8165,7 +8165,7 @@ pt-BR:
   group_name_b69c144: "Nome de grupo"
   group_name_group_announcements_5ce81c6d: "%{group_name} - Avisos do Grupo"
   group_name_group_calendar_7f10e0ed: "%{group_name} - Calendário do Grupo"
-  group_name_group_collaborations_49b5dcd7: "%{group_name} - Colaborações do Grupo"
+  group_name_group_collaborations_49b5dcd7: "%{group_name} - Arquivos de Projeto Integrador do Grupo"
   group_name_group_conferences_8b01695f: "%{group_name} - Conferências do Grupo"
   group_name_group_discussions_8e509286: "%{group_name} - Fóruns do Grupo"
   group_name_group_files_f8b0c078: "%{group_name} - Arquivos do Grupo"
@@ -9057,7 +9057,7 @@ pt-BR:
       view_all_or_customize: "Exibir tudo ou Personalizar"
     mobile_auth: 
       log_in_to_canvas: "Fazer login no Canvas"
-  learn_more_about_collaborations_2978f66d: "Aprenda mais sobre colaborações"
+  learn_more_about_collaborations_2978f66d: "Aprenda mais sobre Arquivos de Projeto Integrador"
   learning_mastery_5fc34276: "Aprendendo Domínio"
   learning_mastery_6ed4fd63: "Aprendendo Domínio..."
   learning_mastery_gradebook_description: "O Livro de Notas de Domínio do Aprendizado fornece uma maneira de os professores visualizarem rapidamente o progresso dos alunos e do curso nos resultados de aprendizado do curso. Os resultados são apresentados em um formato semelhante ao livro de notas e o progresso do aluno é exibido como uma pontuação numérica e como dominado/quase dominado/recuperação."
@@ -9214,7 +9214,7 @@ pt-BR:
     error_loading_banks: "Erro ao carregar bancos"
     loading_banks: "Carregando bancos..."
   load_more_9ca37ccc: "Carregar mais..."
-  loaded_more_collaborations_13f1d630: "Carregadas Mais Colaborações."
+  loaded_more_collaborations_13f1d630: "Carregados Mais Arquivos de Projeto Integrador."
   loading_25990131: Carregando...
   loading_725811ca: carregando
   loading_announcements_b927a86c: "Carregando avisos"
@@ -12356,7 +12356,7 @@ pt-BR:
   pass_fail_3d9461b0: Aprovar/Reprovar
   password_8a271b1c: Senha
   past_14da759a: Passado
-  past_collaborations_1241938f: "Colaborações Passadas"
+  past_collaborations_1241938f: "Arquivos de Projeto Integrador Passados"
   past_terms_4b6ec40e: "Períodos Anteriores"
   paste_xml_cda3a64e: "Colar XML"
   path_4f9abf12: Caminho
@@ -14962,7 +14962,7 @@ pt-BR:
       change_course_state: "Alterar o estado do curso"
       comment_on_others_submissions: "Exibir todos os envios de alunos e fazer comentários sobre eles"
       create_accounts: "Criar novas contas raiz"
-      create_collaborations: "Criar colaborações de aluno"
+      create_collaborations: "Criar Arquivos de Projeto Integrador de aluno"
       create_conferences: "Criar webconferências"
       manage_account_memberships: "Adicionar/Remover outros administradores da conta"
       manage_account_settings: "Gerenciar configurações no nível de conta"
@@ -16222,7 +16222,7 @@ pt-BR:
         announcements_page: "Clique para inserir um link para a página de avisos"
         assignments: "Clique para inserir um link para esta atividade"
         assignments_page: "Clique para inserir um link para a página de atividades"
-        collaborations_page: "Clique para inserir um link para a página de colaborações"
+        collaborations_page: "Clique para inserir um link para a página de Arquivos de Projeto Integrador"
         discussions: "Clique para inserir um link para este tópico"
         discussions_page: "Clique para inserir um link para a página de fóruns"
         files_page: "Clique para inserir um link para a página de arquivos"
@@ -16241,7 +16241,7 @@ pt-BR:
         announcements_page: "Lista de aviso"
         assignments: "Lista de atividades"
         assignments_page: "Lista de atividades"
-        collaborations_page: Colaborações
+        collaborations_page: "Arquivos de Projeto Integrador"
         discussions: "Índice de fórum"
         discussions_page: "Índice de fóruns"
         files_page: "Índice de arquivos"
@@ -16858,7 +16858,7 @@ pt-BR:
   tabs: 
     announcements: Avisos
     assignments: Atividades
-    collaborations: Colaborações
+    collaborations: "Arquivos de Projeto Integrador"
     conferences: Conferências
     course_assignments: "Atividades do curso"
     course_grades: "Notas do curso"
@@ -17050,7 +17050,7 @@ pt-BR:
   there_are_currently_no_associated_courses_fba1754f: "Atualmente não há nenhum curso associado."
   there_are_no_announcements_for_this_course_5ee649c3: "Não há avisos para este curso."
   there_are_no_available_signups_for_this_course_26b05c56: "Não há inscrições disponíveis para este curso."
-  there_are_no_configured_ltis_that_interact_with_co_8c780ce6: "Não há nenhum LTI Configurado que interaja com colaborações."
+  there_are_no_configured_ltis_that_interact_with_co_8c780ce6: "Não há nenhum LTI Configurado que interaja com Arquivos de Projeto Integrador."
   there_are_no_unsaved_changes_9276e87c: "Não existem alterações não salvas"
   there_was_a_failure_logging_out_at_your_idp_30070527: "Houve uma falha ao fazer logout de seu IdP"
   there_was_a_problem_deleting_the_grading_period_50ce07c5: "Houve um problema ao excluir o período de pontuação"
@@ -17608,7 +17608,7 @@ pt-BR:
   use_remote_version_of_rich_content_editor_52f7fc4b: "Use a versão remota do Editor de Conteúdo Rico"
   use_remote_version_of_rich_content_editor_and_side_a058a664: "Use a versão remota do Editor de Conteúdo Rico E barra lateral"
   use_remote_version_of_rich_content_editor_and_side_ebaaa986: "Use a versão remota do Editor de Conteúdo Rico E barra lateral em áreas de alto risco como questionários"
-  use_the_new_collaborations_external_tool_enabling__5f0ed73: "Use a nova ferramenta externa de Colaborações para habilitar mais opções para ferramentas de uso para colaborar"
+  use_the_new_collaborations_external_tool_enabling__5f0ed73: "Use a nova ferramenta externa de Arquivos de Projeto Integrador para habilitar mais opções para ferramentas de uso para colaborar"
   use_the_new_document_annotation_tool_2cbc98d0: "Use a nova ferramenta de anotação de documento"
   use_the_new_quiz_lti_tool_in_place_of_regular_canv_d7cb0c7f: "Use a nova ferramenta LTI de questionários no lugar de questionários regulares do canvas"
   use_the_new_scheduler_1273b832: "Usar o novo planejador"
@@ -18396,7 +18396,7 @@ pt-BR:
   you_have_completed_a_peer_review_for_person_thank__1371f37e: "Você concluiu uma atividade de revisão por pares para %{person}. Obrigado"
   you_have_made_changes_to_the_questions_in_this_qui_1658361a: "*Você fez alterações nas perguntas deste teste.* Essas alterações não aparecerão para alunos até você salvar o teste."
   you_have_no_collaboration_apps_configured_talk_to__6733123a: "Você não tem aplicativos de Arquivo de Projeto Integrador configurados. Converse com seu professor para obter alguma configuração."
-  you_have_no_ltis_configured_to_create_collaboratio_5cad28dd: "Você não tem LTI configurado para criar colaborações. Converse com seu professor para obter alguma configuração."
+  you_have_no_ltis_configured_to_create_collaboratio_5cad28dd: "Você não tem LTI configurado para criar Arquivos de Projeto Integrador. Converse com seu professor para obter alguma configuração."
   you_have_no_outcomes_click_here_to_create_one_ebf262a3: "Você não tem resultados. *Clique aqui* para criar um."
   you_have_no_outcomes_click_here_to_go_to_the_outco_574bd0af: "Você não tem resultados. Clique aqui para ir para a página de resultados."
   you_have_reached_the_maximum_webhooks_per_account__ae9a7f83: "Você atingiu o máximo de webhooks por limite de conta (%{max})"
